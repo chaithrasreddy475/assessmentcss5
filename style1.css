@@ -1,0 +1,81 @@
+body{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+}
+.container{
+    margin-left: 580px;
+}
+#card{
+    width: 130px;
+    height: 130px;
+    background-color: green;
+    transition: width 2s;
+}
+#card:hover{
+    width: 300px;
+}
+#card1{
+    width: 130px;
+    height: 130px;
+    background-color: green;
+    transition: width 2s;
+}
+#card1:hover{
+    width: 300px;
+}
+#card2{
+    width: 130px;
+    height: 130px;
+    background-color: green;
+    transition: width 2s;
+    transition-timing-function: linear;
+}
+#caed2:hover{
+    width: 300px;
+}
+#card3{
+    width: 130px;
+    height: 130px;
+    background-color: green;
+    transition: width 2s;
+    transition-timing-function: ease;
+}
+#card3:hover{
+    width: 400px;
+}
+#card4{
+    width: 130px;
+    height: 130px;
+    background-color: green;
+    transition: width 2s;
+    transition-timing-function: ease-in;
+}
+#card4:hover{
+    width: 300px;
+}
+#card5{
+    width: 130px;
+    height: 130px;
+    background-color: green;
+    transition: width 2s;
+    transition-timing-function: ease-out;
+}
+#card5:hover{
+    width: 300px;
+}
+#card6{
+    width: 130px;
+    height: 130px;
+    background-color: green;
+    transition: width 2s;
+    transition-timing-function: ease-in-out 
+}
+#card6:hover{
+    width: 300px;
+}
+a{
+    font-size: 40px;
+    margin-left: 570px;
+}
